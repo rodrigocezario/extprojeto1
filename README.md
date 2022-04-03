@@ -23,10 +23,12 @@ O projeto consiste na construção de site de e-commerce para plataforma web par
 
 ### Modelo de classes
 Para este projeto, iremos considerar o seguinte modelo de classe para representar o domínio do negócio:
+
 ![Modelo de classes do projeto](arquivos/modelo_classes.png?raw=true "Modelo de classes do projeto")
 
 ### Modelo de Dados
 O MER (Modelo Entidade Relacionamento) descreve a representação conceitual para criação das tabelas (entidades) para nosso modelo de negócio. A figura a seguir apresenta o modelo de dados utilizado neste projeto.
+
 ![Modelo Entidade Relacionamento](arquivos/mer.png?raw=true "Modelo Entidade Relacionamento")
 
 ### Arquivos de Dados
@@ -36,7 +38,7 @@ Segue lista de arquivos para criação e utilização da base de dados do projet
 - [Arquivo de dados SQLite](https://www.dropbox.com/s/85jtjcjwes9skhv/lojadbv2.db?dl=0)
 - [Documentação do Drive de conexão com SQLite](https://github.com/xerial/sqlite-jdbc)
 
-* Ao optar por utilizar SQLite com base de dados (para os que tiverem problemas com MySQL), é necessário alterar o nome da função RND nas consultas por RANDOM. 
+**Ao optar por utilizar SQLite com base de dados (para os que tiverem problemas com MySQL), é necessário alterar o nome da função RND nas consultas por RANDOM.* 
 
 ## Leituras complementares
 Segue algumas leituras para auxiliar na configuração do ambiente:
