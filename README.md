@@ -12,7 +12,7 @@ Para o acompanhamento das aulas, recomenda-se fortemente a utilização do IDE E
 - [MySQL Connector/J](https://dev.mysql.com/downloads/file/?id=509728)
 - [MySQL Workbench](https://dev.mysql.com/downloads/file/?id=509428)
 
-* Importante: A versão do IDE Eclipse adotada neste curso é diferente da versão utilizada nas disciplinas regulares de programação. Sendo assim, é necessário fazer o download desta versão.
+**Importante: A versão do IDE Eclipse adotada neste curso é diferente da versão utilizada nas disciplinas regulares de programação. Sendo assim, é necessário fazer o download desta versão.*
 
 ## Apresentação do projeto
 Neste repositório estão reunidos os arquivos de projeto (nível de design) da loja de e-commerce. Este projeto irá apresentar oportunidades para utilizarmos várias especificações de APIs da arquitetura Jakarta EE com um foco maior em uma abordagem utilizada em sistemas legados. O próximo projeto que será implementado neste curso irá utilizar uma abordagem mais moderna.
@@ -35,8 +35,8 @@ O MER (Modelo Entidade Relacionamento) descreve a representação conceitual par
 Segue lista de arquivos para criação e utilização da base de dados do projeto. 
 - [Script para criação e para popular a base de dados](arquivos/lojav2.sql)
 - [Comandos para consultas](arquivos/Consultas.rtf)
-- [Arquivo de dados SQLite](https://www.dropbox.com/s/85jtjcjwes9skhv/lojadbv2.db?dl=0)
-- [Documentação do Drive de conexão com SQLite](https://github.com/xerial/sqlite-jdbc)
+- [Arquivo de dados SQLite *](https://www.dropbox.com/s/85jtjcjwes9skhv/lojadbv2.db?dl=0)
+- [Documentação do Drive de conexão com SQLite *](https://github.com/xerial/sqlite-jdbc)
 
 **Ao optar por utilizar SQLite com base de dados (para os que tiverem problemas com MySQL), é necessário alterar o nome da função RND nas consultas por RANDOM.* 
 
