@@ -42,6 +42,7 @@ Segue lista de arquivos para criação e utilização da base de dados do projet
 Segue algumas leituras para auxiliar na configuração do ambiente:
 - [Tutorial: Instalando, configurando e inicializando o Git no Windows](https://dev.to/womakerscode/tutorial-instalando-configurando-e-inicializando-o-git-no-windows-57cj)
 - [How To Reset Your MySQL or MariaDB Root Password](https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mariadb-root-password)
+- [Git de autenticação por token](https://www.alura.com.br/artigos/nova-exigencia-do-git-de-autenticacao-por-token-o-que-e-o-que-devo-fazer)
 
 
 ## Observações
